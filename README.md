@@ -2,6 +2,8 @@
 
 ## Accessbility Code Refactor
 
-Improving existing code by adding to the accessibility with semantic HTML and adding accessible "alt" attributes
+Improving existing code by adding to the accessibility with semantic HTML and adding accessible "alt" attributes.
 
-Cleaning up existing code where needed with comments
+Cleaning up existing code where needed with comments.
+
+Improved CSS selectors to match updated semantic HTML. 
