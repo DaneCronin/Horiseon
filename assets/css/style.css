@@ -79,6 +79,8 @@ p {
     margin-left: 20px;
 }
 
+/* Benefits Section Styling */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -138,6 +140,10 @@ p {
     max-width: 150px;
 }
 
+/* End Benefits Section Styling */
+
+/* What We Do Section Styling */
+
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -191,6 +197,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* End What We Do Section Styling */
+
 
 /* Footer Styling */
 
