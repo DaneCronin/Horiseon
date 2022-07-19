@@ -8,7 +8,7 @@ Clean up existing code where needed with comments.
 
 Improved CSS selectors to match updated semantic HTML. 
 
-Link to site:
+# Website
 https://danecronin.github.io/Horiseon/
 
 
