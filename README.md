@@ -1,6 +1,6 @@
-### Horiseon
+# Horiseon
 
-# Accessbility Code Refactor
+## Accessbility Code Refactor
 
 Improving existing code by adding to the accessibility with semantic HTML and adding accessible "alt" attributes
 
