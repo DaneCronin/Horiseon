@@ -1,9 +1,9 @@
 # Horiseon
 
-## Accessbility Code Refactor
+## Accessibility Code Refactor
 
-Improving existing code by adding to the accessibility with semantic HTML and adding accessible "alt" attributes.
+Improve existing code by adding to the accessibility with semantic HTML and adding accessible "alt" attributes to relevant elements.
 
-Cleaning up existing code where needed with comments.
+Clean up existing code where needed with comments.
 
 Improved CSS selectors to match updated semantic HTML. 
